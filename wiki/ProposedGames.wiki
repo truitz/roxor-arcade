@@ -1,0 +1,23 @@
+#summary This is where you can put links to sub-page wikis describing games you are developing or would like help developing.
+
+= Game List =
+
+Place link to detail wiki page with 1 sentence summary
+
+[BinDeciHex] - Game to get comfortable with translation in any direction from binary, decimal, hexadecimal.
+
+[http://code.google.com/p/roxor-arcade/wiki/WhackASsembly Whack-A-Ssembly] - Game to memorize assembly instructions, with a whack-a-mole game mechanic.
+
+[The *other* ESP game] - Understanding the stack, as used by x86 assembly.
+
+[Dark Mathemagic] - Being able to calculate values in registers given a snippet of a couple assembly instructions.
+
+[One step forward, 3 steps back] - Working backwards in assembly to understand if a condition will be true of false based on the inputs.
+
+[May your buffer overfloweth] - Game to execute arbitrary code in the presence of a stack-based buffer overflow.
+
+[There's something about: struct/object type inference] - Reverse engineering game needing further development.
+
+[There's something about: debugging/anti-debugging] - Debugging tool game needing further development.
+
+[There's something about: unpacking] - Malware analysis game needing further development.
