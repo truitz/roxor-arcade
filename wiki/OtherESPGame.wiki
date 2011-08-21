@@ -12,4 +12,4 @@ In the first round you would probably make it extra easy on them by having it so
 
 = Code Repository Path =
 
-To be filled in when development begins.
+http://code.google.com/p/roxor-arcade/source/browse/trunk#trunk%2FTheOtherESPGame
