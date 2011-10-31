@@ -20,4 +20,4 @@ Also the selection of which of the 3 the starting value is in will be randomized
 
 = Code Repository Path =
 
-To be filled in when development begins.
+http://code.google.com/p/roxor-arcade/source/browse/trunk/BinDeciHex/perldemo/
