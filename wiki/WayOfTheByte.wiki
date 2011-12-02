@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Mostly I just wanted to claim the excellent title Way of the Byte for the RPG :)
+
+Ideally we would want the elements of the game to teach real world skills (1337 edition), but I also wouldn't mind a game-y abstracted version (n00b edition), just to get people familiar with the breadth of topics in the area.
+
+= Game Design =
+
+There should be a few different character starting classes such as system administrator, vulnerability researcher, host-defender, network-defender, etc
+
+Would be interesting if there was a game mechanic where your oldest skills became obsolete eventually. This would for instance discourage against over-investment in early skills which would eventually become inaccessible.
+
+=Code Repository Path =
+
+To be filled in when development begins.
