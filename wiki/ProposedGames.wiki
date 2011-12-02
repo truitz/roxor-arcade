@@ -21,3 +21,5 @@ Place link to detail wiki page with 1 sentence summary
 [http://code.google.com/p/roxor-arcade/wiki/Debugging There's something about: debugging/anti-debugging] - Debugging tool game needing further development.
 
 [http://code.google.com/p/roxor-arcade/wiki/Unpacking There's something about: unpacking] - Malware analysis game needing further development.
+
+[http://code.google.com/p/roxor-arcade/wiki/WayOfTheByte Way of the Byte] - This would be the ultimate goal: an RPG where people specialize in computer security skills like reverse engineering, forensics, packet analysis, etc.
