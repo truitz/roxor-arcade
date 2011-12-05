@@ -100,6 +100,7 @@ Learn about 3DES.<br>
 ...<br>
 Learn about AES<br>
 etc
+Learn about known plaintext, chosen plaintext, chosen ciphertext, etc attacks
 
 === Stealth Malware ===
 
