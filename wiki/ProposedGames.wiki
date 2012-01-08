@@ -1,4 +1,5 @@
 #summary This is where you can put links to sub-page wikis describing games you are developing or would like help developing.
+#labels Featured
 
 = Game List =
 
