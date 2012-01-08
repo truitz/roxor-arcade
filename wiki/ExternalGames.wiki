@@ -1,0 +1,9 @@
+#summary Computer Security Training Games Available Externally
+
+= Computer Security Training Games Available Externally =
+
+  * CyberCEIGE - http://www.cisr.us/cyberciege/ - "CyberCIEGE is available for unlimited use by the US Government and a no cost education license is available for educational institutions."
+
+  * Cisco Binary Game - http://forums.cisco.com/CertCom/game/binary_game_page.htm - "The Cisco Binary Game is the best way to learn and practice the binary number system. It is great for classes, students and teachers in science, math, digital electronics, computers, programming, logic and networking. It is also a LOT of fun to play for anyone who likes to play fast-paced arcade games."
+
+Are we missing something? Email opensecuritytraining at gmail
