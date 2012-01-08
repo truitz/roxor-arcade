@@ -1,4 +1,5 @@
 #summary Computer Security Training Games Available Externally
+#labels Featured
 
 = Computer Security Training Games Available Externally =
 
