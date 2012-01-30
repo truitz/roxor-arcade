@@ -1,0 +1,13 @@
+#summary The enemy's logic gate is down
+
+= Introduction =
+
+I remember that when I was first learning little endian as it applies to Intel architecture, I occasionally got confused about whether it applied to every bit, or just bytes, or just 4 byte values or what. Therefore this game would leave absolutely no uncertainty about how it applies. It can also reinforce that if you're not seeing it by virtue of using some other computer architecture besides Intel, you will see it due to network ordering being big endian.
+
+= Game Design =
+
+I have no idea. I just came up with the name and needed to make a page for it :D
+
+= Code Repository Path =
+
+To be filled in when development starts
