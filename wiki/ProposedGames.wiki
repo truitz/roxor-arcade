@@ -7,7 +7,7 @@ Place link to detail wiki page with 1 sentence summary
 
 [http://code.google.com/p/roxor-arcade/wiki/BinDeciHex BinDeciHex] - Game to get comfortable with translation in any direction from binary, decimal, hexadecimal.
 
-[http://code.google.com/p/roxor-arcade/wiki/EndiansGame Endian's Game] - Reinforcing that little endian only applies on the byte level, not the bit leve. And also that the enemy's logic gate is down ;)
+[http://code.google.com/p/roxor-arcade/wiki/EndiansGame Endian's Game] - Reinforcing that little endian only applies on the byte level, not the bit level. And also that the enemy's logic gate is down ;)
 
 [http://code.google.com/p/roxor-arcade/wiki/WhackASsembly Whack-A-Ssembly] - Game to memorize assembly instructions, with a whack-a-mole game mechanic.
 
