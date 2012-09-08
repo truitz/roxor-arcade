@@ -19,6 +19,10 @@ Place link to detail wiki page with 1 sentence summary
 
 [http://code.google.com/p/roxor-arcade/wiki/GoWithTheControlFlow Go With the Control Flow] - F-Zero meets control flow decisions!
 
+[http://code.google.com/p/roxor-arcade/wiki/BinaryScavengerHunt Binary Scavenger Hunt] - A game for [http://opensecuritytraining.info/LifeOfBinaries.html The Life of Binaries] class to reinforce material immediately after learning it, or to refresh material some time after class.
+
+[http://code.google.com/p/roxor-arcade/wiki/PushMePopYou Push Me Pop You] - Sort of a tetrisy stack game
+
 [http://code.google.com/p/roxor-arcade/wiki/BufferOverfloweth May your buffer overfloweth] - Game to execute arbitrary code in the presence of a stack-based buffer overflow.
 
 [http://code.google.com/p/roxor-arcade/wiki/StructInference There's something about: struct/object type inference] - Reverse engineering game needing further development.
