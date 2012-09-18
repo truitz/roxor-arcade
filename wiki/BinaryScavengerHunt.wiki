@@ -40,4 +40,4 @@ The use of the seed can also allow for head to head competition between 2 or mor
 
 = Code Repository Path =
 
-This will be filled in when development has begun.
+http://code.google.com/p/roxor-arcade/source/browse/trunk/BinaryScavengerHunt/pythondemo
