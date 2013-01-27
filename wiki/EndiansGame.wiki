@@ -6,7 +6,11 @@ I remember that when I was first learning little endian as it applies to Intel a
 
 = Game Design =
 
-I have no idea. I just came up with the name and needed to make a page for it :D
+This game will feature a stick figure tucked into a crouch, freefalling in one of the four cardinal directions on the screen. The top of the screen will say "The enemy is ___Little Endian___ ___0xDEADBEEF___" (where the endianness and hex constant can change). Then as the user is falling, he will have to navigate (with the cheater help of a little jetpack, sorry, we can't be 100% accurate ;)) and make sure he shoots the hex which is coming toward him, but only the hex which is in the specified endianness and the specified constant.
+
+As the levels progress, the user will change from only falling down to "falling" left, right, or up. But the user has to keep the endianness principle in mind, and has to keep navigating and shooting the right constants as the levels speed up.
+
+A notional picture will be posted to help give a better sense of this game. Anyone who knows HTML5 or flash game development is asked to help volunteer for this.
 
 = Code Repository Path =
 
