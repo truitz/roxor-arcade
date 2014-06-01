@@ -9,4 +9,6 @@
 
   * {{{Cisco Binary Game}}} - http://forums.cisco.com/CertCom/game/binary_game_page.htm - "The Cisco Binary Game is the best way to learn and practice the binary number system. It is great for classes, students and teachers in science, math, digital electronics, computers, programming, logic and networking. It is also a LOT of fun to play for anyone who likes to play fast-paced arcade games."
 
+ * {{{XSS Game Arena}}} - https://xss-game.appspot.com/ - "At Google, we know very well how important these bugs are. In fact, Google is so serious about finding and fixing XSS issues that we are paying mercenaries up to $7,500 for dangerous XSS bugs discovered in our most sensitive products. In this training program, you will learn to find and exploit XSS bugs. You'll use this knowledge to confuse and infuriate your adversaries by preventing such bugs from happening in your applications."
+
 Are we missing something? Email opensecuritytraining at gmail.
